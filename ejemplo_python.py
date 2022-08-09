@@ -9,4 +9,4 @@ while indice<len(sentencia):
         contador=contador+1
     indice=indice+1
 
-print(f"Existen {contador} letras {consonante} en la frase {sentencia}")
+print(f"Existen {contador} letras {consonante} en la frase {sentencia}.")
